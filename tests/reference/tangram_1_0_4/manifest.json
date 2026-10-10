@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/broadinstitute/Tangram",
+  "tag": "1.0.4",
+  "commit": "d537ff936a1a26445a0f196c714d100d10e3e5ea",
+  "files": {
+    "mapping_optimizer.py": {
+      "url": "https://raw.githubusercontent.com/broadinstitute/Tangram/d537ff936a1a26445a0f196c714d100d10e3e5ea/tangram/mapping_optimizer.py",
+      "sha256": "cdef02e75f66e38c353a83a2153d9b6698978be2b77961106954640e164eed7b"
+    },
+    "mapping_utils.py": {
+      "url": "https://raw.githubusercontent.com/broadinstitute/Tangram/d537ff936a1a26445a0f196c714d100d10e3e5ea/tangram/mapping_utils.py",
+      "sha256": "1c677c2a7c9cadcdf7803bfef5608d63e41953a7137d882005e29eb7e52da6a2"
+    },
+    "utils.py": {
+      "url": "https://raw.githubusercontent.com/broadinstitute/Tangram/d537ff936a1a26445a0f196c714d100d10e3e5ea/tangram/utils.py",
+      "sha256": "805192063e74de6b2f074585e9ffc9b4903786ea3a6be13af8b5e0241798a248"
+    },
+    "plot_utils.py": {
+      "url": "https://raw.githubusercontent.com/broadinstitute/Tangram/d537ff936a1a26445a0f196c714d100d10e3e5ea/tangram/plot_utils.py",
+      "sha256": "fd10fd5a9bee359797a54ca4d353c27515648b3caa58486b45d3a40ba32bf7a3"
+    },
+    "__init__.py": {
+      "url": "https://raw.githubusercontent.com/broadinstitute/Tangram/d537ff936a1a26445a0f196c714d100d10e3e5ea/tangram/__init__.py",
+      "sha256": "a38a549182d842e755bc35480a737df46717b51473537d59148fce3416aa3bdc"
+    }
+  }
+}

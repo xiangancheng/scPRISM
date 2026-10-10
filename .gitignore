@@ -1,0 +1,71 @@
+
+# Python caches and test/tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Python environments and generated packaging files
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Local credentials and environment variables
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+
+# Editor settings and local agent workspace
+.vscode/
+.idea/
+.hermes/
+.ipynb_checkpoints/
+
+# Local datasets and literature collections
+/data/
+/data_knowledge/
+/brain_knowledge/
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+*.zarr/
+
+# Trained models and experiment outputs
+*.pt
+*.pth
+*.ckpt
+/checkpoints/
+/outputs/
+/results/
+/runs/
+/wandb/
+/lightning_logs/
+*.log
+
+# Local backups and temporary files
+/backups/
+*.bak
+*.tmp
+*.temp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
